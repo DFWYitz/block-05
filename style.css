@@ -1,0 +1,19 @@
+h1{
+    color: rgba(14, 147, 68, 0.311);
+    font-size: 3rem;
+    border: 1px solid black;
+    max-width: 200px;
+}
+
+#coding-text {
+    color: blue;
+}
+
+.coding-text {
+    color: green;
+}
+
+#small-text {
+    border: 1px dotted black;
+    box-shadow: 0 5px 10px;
+}
